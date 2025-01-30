@@ -1,4 +1,4 @@
-package carnegietechnologies.gallery_saver
+package com.travisthomson.gallery_saver
 
 import android.content.ContentResolver
 import android.content.ContentUris
